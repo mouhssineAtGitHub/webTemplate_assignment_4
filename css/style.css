@@ -191,6 +191,11 @@ input[type="radio"]:hover + label {
 	margin:0px;
 }
 
+.divToleft{
+	position: relative;;
+	left: -15px;
+}
+}
 
 /* Styling the checkbuttons buttons */
 .wrapperchek{
